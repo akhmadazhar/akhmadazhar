@@ -2,7 +2,7 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/azhar.nizami) 
 
-![akhmadazhar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=akhmadazhar&theme=vue-dark&hide_border=true) ![akhmadazhar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhmadazhar&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![akhmadazhar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=akhmadazhar&theme=vue-dark&hide_border=true) 
 
 
 # 💻 Tech Stack:
@@ -10,6 +10,6 @@
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) ![akhmadazhar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhmadazhar&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
