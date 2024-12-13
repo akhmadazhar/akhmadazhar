@@ -1,4 +1,4 @@
-Libur dulu 3 hari kedepan
+Libur dulu 2 hari kedepan
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/azhar.nizami) 
 
