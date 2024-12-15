@@ -1,4 +1,4 @@
-Libur dulu 1 hari kedepan
+Last Day Holiday
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/azhar.nizami) 
 
