@@ -1,6 +1,5 @@
-Last Day Holiday
+Malas
 ## 🌐 Socials:
-MEET DAY, LIBUR DULU
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/azhar.nizami) 
 
 ![akhmadazhar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=akhmadazhar&theme=vue-dark&hide_border=true) 
