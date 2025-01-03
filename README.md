@@ -1,4 +1,4 @@
-Ingin Menjadi Programmer Handal, Namun Enggan Ngoding
+Ingin Menjadi Programmer Handal, Namun Enggan Ngoding.
 Malas Mengoding
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/azhar.nizami) 
